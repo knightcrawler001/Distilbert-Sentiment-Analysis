@@ -23,16 +23,14 @@ classifying it into positive or negative categories.
 ## Project Structure
 
 ```text
-LLM-Sentiment-Analysis/
+Distilbert-Sentiment-Analysis/
 │
-├── src/
-│   ├── config.py
-│   ├── predict.py
-│   ├── results.py
-│   ├── test.py
-│   ├── train.py
-│   ├── utils.py
-│   └── training_loss.png
-│
+├── config.py
+├── predict.py
+├── results.py
+├── test.py
+├── train.py
+├── utils.py
+├── training_loss.png
 ├── README.md
 └── requirements.txt
